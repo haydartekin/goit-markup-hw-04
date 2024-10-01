@@ -31,6 +31,7 @@ body {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
+    text-decoration: none;
 }
 
 /* HEADER */
@@ -321,6 +322,7 @@ body {
 .content-four-list,
 .content-four{
   background-color: #fff;
+  text-decoration: none;
   
  
 
