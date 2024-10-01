@@ -412,7 +412,7 @@ body {
   font-weight: 400px;
   font-size: 16px;
   line-height: 0.2;
-  letter: 2%;
+  letter-spacing: 2%;
   
 }
 
@@ -476,6 +476,7 @@ body {
   text-align:left;
 }
 .content-four-list-item{
+  text-decoration: none;
 }
 h2 {
   font-size: 20px;
