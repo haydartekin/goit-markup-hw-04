@@ -215,7 +215,7 @@ header a span {
 /* section 2 */
 
 .second-sec {
-  padding: 120px 0;
+  margin: 120px 0px;
 }
 
 .visually-hidden {
@@ -234,7 +234,6 @@ header a span {
 .first-list-main {
   display: flex;
   gap: 24px;
-  margin: 120px 0px;
   align-items: center;
 }
 
